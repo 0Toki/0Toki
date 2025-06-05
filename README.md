@@ -1,6 +1,6 @@
 
 <h1 align="Left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Audiowide&size=22&color=5A0F98&left=true&width=500&height=70&duration=4000&lines=I+am+John+Carlo+C.+Ledesma" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&color=5A0F98&left=true&width=500&height=70&duration=4000&lines=I+am+John+Carlo+C.+Ledesma" />
 
 </h1>
 
