@@ -1,6 +1,6 @@
 
 <h1 align="Left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=14&color=00FF00&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=14&color=2D0140&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 
 </h1>
 
