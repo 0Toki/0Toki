@@ -3,6 +3,55 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5A0F98&width=700&lines=I+am+John+Carlo+C.+Ledesma" />
 </h1>
 
+<svg width="750" height="50" viewBox="0 0 750 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font: 24px 'Fira Code', monospace;
+      fill: #5A0F98;
+      white-space: pre;
+    }
+
+    .cursor {
+      animation: blink 1s step-start infinite;
+      fill: #5A0F98;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 26ch }
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    .typewriter {
+      overflow: hidden;
+      border-right: .15em solid transparent;
+      white-space: nowrap;
+      animation: typing 4s steps(26) forwards;
+    }
+  </style>
+
+  <foreignObject x="0" y="0" width="750" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div style="display: flex; align-items: center;">
+        <div class="text typewriter">I am John Carlo C. Ledesma</div>
+        <div class="text cursor">|</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+<img src="typewriter.svg" width="750" />
+
+
+
+
+
+
+
+
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
