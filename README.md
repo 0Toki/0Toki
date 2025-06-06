@@ -1,3 +1,3 @@
 <h1 align="Right">
-  Hello, my name is Carlo Ledesma
+   Carlo Ledesma &mdash; Fascinated by coding and design.
 </h1>
