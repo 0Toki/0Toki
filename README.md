@@ -1,1 +1,3 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hello,+my+name+is+Carlo+%7C)
+<h1 align="Right">
+  Hello, my name is Carlo Ledesma
+</h1>
