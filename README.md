@@ -1,9 +1,8 @@
 
 <h1 align="Left">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5A0F98&width=700&link=false&lines=I+am+John+Carlo+C.+Ledesma" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=5A0F98&width=700&lines=I+am+John+Carlo+C.+Ledesma&center=false&vCenter=true&repeat=false&link=false" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=5A0F98&center=false&vCenter=true&width=700&lines=I+am+John+Carlo+C.+Ledesma" />
 
 
 
