@@ -1,9 +1,50 @@
 
 <h1 align="Left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Exo+2&size=16&color=5A0F98&pause=1000&repeat=false&left=true&width=700&height=70&duration=4000&lines=I+am+John+Carlo+C.+Ledesma" />
-    <img src="https://yourdomain.com/animated-text.svg" width="400" />
-
 </h1>
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font: bold 20px sans-serif;
+      fill: #000;
+    }
+
+    .icon {
+      font-size: 20px;
+      fill: #1DA1F2;
+    }
+
+    .slide-in {
+      animation: slideIn 1s forwards;
+      opacity: 0;
+    }
+
+    .delay-1 { animation-delay: 0.5s; }
+    .delay-2 { animation-delay: 1s; }
+    .delay-3 { animation-delay: 1.5s; }
+    .delay-4 { animation-delay: 2s; }
+
+    @keyframes slideIn {
+      0% { transform: translateX(-200px); opacity: 0; }
+      100% { transform: translateX(0); opacity: 1; }
+    }
+  </style>
+
+  <!-- Title -->
+  <text x="10" y="30" class="text slide-in" style="animation-delay: 0s">My Socials:</text>
+
+  <!-- Website -->
+  <text x="40" y="70" class="text slide-in delay-1">🌐 Website: yoursite.com</text>
+
+  <!-- Instagram -->
+  <text x="40" y="100" class="text slide-in delay-2">📸 Instagram: @yourhandle</text>
+
+  <!-- Facebook -->
+  <text x="40" y="130" class="text slide-in delay-3">📘 Facebook: fb.com/yourname</text>
+
+  <!-- LinkedIn -->
+  <text x="40" y="160" class="text slide-in delay-4">💼 LinkedIn: linkedin.com/in/yourname</text>
+</svg>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
