@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffffff&width=435&lines=Hello,+my+name+is+Carlo+%7C" alt="Typing SVG" />
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hello,+my+name+is+Carlo+%7C)
