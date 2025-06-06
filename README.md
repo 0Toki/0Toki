@@ -1,4 +1,2 @@
-<h1 align="right">
-  Carlo Ledesma &mdash; Fascinated by 
-  coding and design.
-</h1>
+Carlo Ledesma &mdash; Fascinated by  
+&nbsp;&nbsp;&nbsp;&nbsp;coding and design.
