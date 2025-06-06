@@ -1,6 +1,8 @@
 
 <h1 align="Left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Exo+2&size=16&color=5A0F98&pause=1000&repeat=false&left=true&width=700&height=70&duration=4000&lines=I+am+John+Carlo+C.+Ledesma" />
+    <img src="https://yourdomain.com/animated-text.svg" width="400" />
+
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
