@@ -1,7 +1,6 @@
 
 <h1 align="Left">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5A0F98&width=700&lines=I+am+John+Carlo+C.+Ledesma" />
-
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
