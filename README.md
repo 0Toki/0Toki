@@ -1,1 +1,1 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Hi,+I'm+Alex+%7C;Welcome+to+my+GitHub+profile+%7C;Let's+build+cool+projects+%7C)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=70&lines=Hello,+my+name+is+Carlo+%7C)
