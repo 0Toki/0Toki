@@ -2,10 +2,10 @@
 # 👋 Hi, I'm Carlo Ledesma
 
 Front-end developer passionate about clean design and smooth interactions. Connect with me — let’s build something amazing together.
-## 🔧 Tech Stack
-- 🌐 HTML | CSS | JavaScript | React | Vite | Tailwind | Laravel | PHP
-- ⚙️ Git | GitHub | Firebase | MongoDB 
-- 📱 Flutter (for mobile)
+## 🔧 Tech Stack & Tools
+- HTML | CSS | JavaScript | React | Vite | Tailwind | Laravel | PHP
+- Git | GitHub | Firebase | MongoDB 
+- Flutter (for mobile)
 
 ## 🚀 Projects
 - [JC Blades](https://github.com/0Toki/jcblades-storefront)
