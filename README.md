@@ -1,20 +1,17 @@
 
-# 👋 Hi, I'm John Carlo Ledesma
+# 👋 Hi, I'm Carlo Ledesma
 
-I'm a passionate front-end developer who loves crafting clean UIs and meaningful interactions.
-
+Front-end developer passionate about clean design and smooth interactions. Connect with me — let’s build something amazing together.
 ## 🔧 Tech Stack
-- 🌐 HTML | CSS | JavaScript | React | Vite | Tailwind
-- ⚙️ Git | GitHub | Firebase | MongoDB
+- 🌐 HTML | CSS | JavaScript | React | Vite | Tailwind | Laravel | PHP
+- ⚙️ Git | GitHub | Firebase | MongoDB 
 - 📱 Flutter (for mobile)
 
 ## 🚀 Projects
-- 🔪 [JC Blades](https://github.com/your-repo-link) – A blade e-commerce site
-- 📚 [LMS](https://github.com/your-lms-repo) – Learning Management System
-- 💬 [Messenger App](https://github.com/your-messenger-repo) – Chat + Video Calls + Docs
+- 🔪 [JC Blades](https://github.com/0Toki/jcblades-storefront) – Focused on front-end development for a comprehensive ecommerce platform that delivers a modern, secure, and responsive user interface.
+- ✈️ [LUPAD](https://github.com/0Toki/lupad_application) - Built a mobile flight booking app for a Mobile Development course, with features like seat selection, ticket generation, and Firebase integration.
+- 📱 [iPhonehub] - (https://github.com/0Toki/IphoneHubStore) - iPhoneHub is a full-stack web-based e-commerce platform focused on iPhone products, complete with admin dashboard, cart system, and authentication.
 
 ## 📫 Connect with Me
-- 📧 Email: your.email@example.com
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- 📧 Email: j.ledesma.538374@umindanao.edu.ph
+- 🌐 [Portfolio](https://jhncrlldsm.netlify.app/)
